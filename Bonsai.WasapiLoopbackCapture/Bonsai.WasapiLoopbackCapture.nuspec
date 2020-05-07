@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Bonsai - WasapiLoopbackCapture Library</title>
+    <authors>Nicholas Guilbeault</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bonsai library exposing the WasapiLoopbackCapture class of NAudio, which lets you intercept audio from any Windows recognized audio playback device and save it to an audio file.</description>
+    <copyright>Nicholas Guilbeault © 2020</copyright>
+    <tags>Bonsai WasapiLoopbackCapture NAudio</tags>
+  </metadata>
+</package>
